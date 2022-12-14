@@ -1,5 +1,4 @@
-01-preprocess/src/__pycache__
+01-preprocess/src/apikey.txt
 01-preprocess/results
-02-models/src/__pycache__
 02-models/results
 exdata/*

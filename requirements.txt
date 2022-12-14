@@ -1,0 +1,9 @@
+pandas
+numpy
+pandas_profiling
+matplotlib
+seaborn
+geopy
+googlemaps
+gmaps
+lightgbm
